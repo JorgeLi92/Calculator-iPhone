@@ -1,5 +1,9 @@
 # Calculator-iPhone
 Calculator to iPhone 8
+![](https://github.com/JorgeLi92/Calculator-iPhone/blob/master/ScreenShot.png)
+
+
+
 
 You can add, rest, multipli and divide. Only if you add or rest you can operate with negative numbers.
 
