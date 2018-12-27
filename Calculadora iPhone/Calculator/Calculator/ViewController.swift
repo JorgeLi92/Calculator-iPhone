@@ -56,13 +56,13 @@ class ViewController: UIViewController {
         }
         
         actualOperation = sender.titleLabel!.text! as String
-        
     }
     
     @IBAction func clearButton(_ sender: UIButton) {
         result = 0
         actualNumber = 0
         actualOperation = "="
+        
         resultLabel.text = ("\(result)")
     }
     
